@@ -1,6 +1,6 @@
 const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia } = require('@adiwajshing/baileys')
 let fs = require('fs')
-let owner = 6282146218274
+let owner = 6285850539404
 let wa = '0'
 let handler = async (m) => {
 let jarot = `
@@ -23,7 +23,7 @@ let jarot = `
                 {
                urlButton: {
                displayText: '🐻Youtube creator🐻',
-               url: 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg'
+               url: 'https://youtube.com/channel/RIELBOTZ OFFC'
              }
 
            },
