@@ -17,12 +17,14 @@ BIG THANKS TO
     📮 https://github.com/Hyzerr
 ⤿ Krizyn Ofc
     📮 https://github.com/krizynofc
+⤿ RielGanzzOfc
+    📮 https://github.com/Rieltod12
 ⤿ Zifabotz_offc1
     📮 https://github.com/Botynyakamu
 ⤿ Jarot ofc 
     📮 https://github.com/alpiii22 
     
-THANKS PARA DONASI YANG TERHORMAT
+THANKS PARA DONASI YANG TERHORMAT💬
 `
 conn.sendButtonImg(m.chat, fla + 'Thanks To', esce, wm2, 'Menu', '.menu', m) 
 }
