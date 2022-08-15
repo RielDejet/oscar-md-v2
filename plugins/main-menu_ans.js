@@ -1,6 +1,6 @@
 const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia } = require('@adiwajshing/baileys')
 let fs = require('fs')
-let owner = 6285850539404
+let owner = 6282146218274
 let wa = '0'
 let handler = async (m) => {
 let jarot = `
@@ -10,7 +10,7 @@ let jarot = `
     const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fromObject({
         templateMessage: {
             hydratedTemplate: {
-                hydratedContentText: jarot,
+                hydratedContentText: riel,
                 imageMessage: message.imageMessage, 
            hydratedFooterText: '📮Note : Jika Kamu Menggunakan Wa Lama Atau Wa Mod, Dan Button Tidak Keliatan, Langsung Aja Ketik .? all',
            hydratedButtons: [{
@@ -23,7 +23,7 @@ let jarot = `
                 {
                urlButton: {
                displayText: '🐻Youtube creator🐻',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               url: 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg'
              }
 
            },
