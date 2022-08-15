@@ -5,60 +5,60 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285850539404','79609055704'] 
+global.owner = ['6282146218274','6283112471048'] 
 global.mods = [''] 
-global.prems = ['6285850539404'] 
+global.prems = ['6282146218274'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Jarot offcঔৣ꧂'
-global.numberowner = '6285850539404','79609055704',
-global.instagram = 'https://instagram.com/Jarotr_'
-global.github = 'https://github.com/Alpiii22'
-global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.ss = 'https://youtu.be/3m7tRD4RklM'
-global.sss = 'https://youtu.be/PzUH1ApMCig'
-global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.dana = '085850539404'
-global.pulsa = '085850539404'
-global.gopay = '085850539404'
+global.nameowner = 'ᴹᴿ᭄ RiellOfcོ ×፝֟͜×'
+global.numberowner = '6282146218274','6283112471048',
+global.instagram = 'https://instagram.com/RielOfc'
+global.github = 'https://github.com/Rieltod12'
+global.Youtube = 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg'
+global.sc = 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg'
+global.ss = 'https://youtu.be/RIELBOTZ OFFC'
+global.sss = 'https://youtu.be/RIELBOTZ OFFC'
+global.yt = 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg'
+global.dana = '*NOT FOUND*'
+global.pulsa = '083813417529'
+global.gopay = '*NOT FOUND*'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
+global.namebot = 'ᴹᴿ᭄ Khurushi-Mdོ ×፝֟͜×'
 global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/Jarotr_'
-global.pulsa = '085850539404'
-global.nomer = 'https://wa.me/6285850539404' //ganti jadi nomor mu
+global.web = 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/RielOfc'
+global.pulsa = '083813417529'
+global.nomer = 'https://wa.me/6282146218274' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg'
-global.fotonya8 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti pakai poto payment atau apa
+global.fotonya1 = 'https://telegra.ph/file/a55d767b79177727f2901.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/a55d767b79177727f2901.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/a55d767b79177727f2901.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/a55d767b79177727f2901.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/a55d767b79177727f2901.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/0dccc7d3f956b105f45a8.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/0dccc7d3f956b105f45a8.jpg'
+global.fotonya8 = 'https://telegra.ph/file/a55d767b79177727f2901.jpg' //foto session
+global.donasi = 'https://telegra.ph/file/5879b62a92a4afc638ddf.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙Dark-MD⳹ ❋ཻུ۪۪'
+global.wm = 'ᴹᴿ᭄ Khurushi-Mdོ ×፝֟͜×"'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐉𝐚𝐫𝐨𝐭_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ 𝐉𝐚𝐫𝐨𝐭 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by ᴹᴿ᭄ Khurushi-Mdོ ×፝֟͜×"꧅'
+global.wm3 = 'ᯤ ⓇⒾⒺⓁ ×፝֟͜× '
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/a55d767b79177727f2901.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Darkbotz'
-global.author = '@Jarot'
+global.packname = 'ᴹᴿ᭄ Khurushi-Mdོ ×፝֟͜×'
+global.author = '2022'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
