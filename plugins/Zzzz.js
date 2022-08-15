@@ -43,8 +43,8 @@ let krizyn = `
            },
                 {
                urlButton: {
-               displayText: '🔮Myweb🔮',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               displayText: '🔮My youtube owner🔮',
+               url: 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg'
              }
 
            },
