@@ -3,11 +3,11 @@ let fs = require('fs')
 let handler = async (m) => {
 let krizyn = `
 •·––––––––––––––––––––––––––·•
-❑ *Nama* : Jarot
-❑ *Umur* : 18 Tahun
-❑ *Kelas* : Lulus
-❑ *Ulang Tahun* : 30 Januari 2004
-❑ *Alamat* : AS, AS, Pelabuhan
+❑ *Nama* : RielGanzz
+❑ *Umur* : 16 Tahun
+❑ *Kelas* : 1 smk
+❑ *Ulang Tahun* : 03 July 2006
+❑ *Alamat* : Kaltim, SMD, Indonesia
 •·––––––––––––––––––––––––––·•
 	`.trim()
   let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya7)).buffer()}, { upload: conn.waUploadToServer }) 
@@ -26,8 +26,8 @@ let krizyn = `
            },
                 {
                urlButton: {
-               displayText: '🌍 Link Youtube 🌍',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               displayText: '🌍 Link Youtube owner🌍',
+               url: 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg'
              }
 
            },
