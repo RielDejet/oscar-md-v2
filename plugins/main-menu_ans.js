@@ -12,7 +12,7 @@ let jarot = `
             hydratedTemplate: {
                 hydratedContentText: jarot,
                 imageMessage: message.imageMessage, 
-           hydratedFooterText: '📮Note : Jika Kamu Menggunakan Wa Lama Atau Wa Mod, Dan Button Tidak Keliatan, Langsung Aja Ketik .? all',
+           hydratedFooterText: '📮Note : ',
            hydratedButtons: [{
              urlButton: {
                displayText: '🔮GroupBot🔮',
@@ -23,7 +23,7 @@ let jarot = `
                 {
                urlButton: {
                displayText: '🐻Youtube creator🐻',
-               url: 'https://youtube.com/channel/RIELBOTZ OFFC'
+               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
              }
 
            },
